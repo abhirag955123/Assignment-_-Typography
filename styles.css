@@ -1,0 +1,30 @@
+
+*{
+    margin: 0 auto;
+}
+header{
+    height: 10vh; 
+}
+.top{
+   width: 60vh;
+   text-align: left;
+   padding-top: 20px;
+}
+
+img{
+    margin-left: 25%;
+}
+p{
+    color: rgba(0, 0, 0, 0.6);
+    width: 60vh;
+    margin-top: 15px;
+}
+iframe{
+     margin-left: 36%;
+     margin-top: 15px;
+}
+hr{
+    margin-top: 15px;
+    border: 2px solid rgba(0, 0, 0, 0.6);
+    margin-bottom: 10px;
+}
